@@ -1,0 +1,7 @@
+name: Economy
+author: viper (viper#4163)
+description: Open sourced pocketmine economy plugin created in 4.0 :D
+
+version: 1.0.0
+main: viper\Loader
+api: 4.0.0
